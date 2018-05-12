@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37932'
     url: http://www.gutenberg.org/2009/agents/37932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37340#The-Clan-Fraser-in-CanadaSouvenir-of-the-First-Annual-Gathering
 gutenberg_issued: '2011-09-07'
 gutenberg_type: Text
 identifiers:
