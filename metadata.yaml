@@ -1,0 +1,27 @@
+_repo: The-Clan-Fraser-in-CanadaSouvenir-of-the-First-Annual-Gathering_37340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37340-h/images/000_cover.jpg
+creator:
+  author:
+    agent_name: Fraser, Alexander
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '37932'
+    url: http://www.gutenberg.org/2009/agents/37932
+description: ''
+gutenberg_issued: '2011-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CS'
+- !lcsh 'Fraser family'
+- !lcsh 'Clans -- Canada'
+title: 'The Clan Fraser in Canada: Souvenir of the First Annual Gathering'
+url: http://www.gutenberg.org/ebooks/37340
